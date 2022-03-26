@@ -1,6 +1,8 @@
-# aRtData
+# aRtData <img src="aRtData.png" align="right" width="120" />
 
 A R package containing data used in the {aRt} package. Data generating functions are available, and the data included in the package use the default values from the functions.
+
+## Installation
 
 Install using:
 ``` r
