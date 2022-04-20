@@ -2,3 +2,7 @@
 ^\.Rproj\.user$
 .lintr
 aRtData.png
+^_pkgdown\.yml$
+^docs$
+^pkgdown$
+^\.github$
