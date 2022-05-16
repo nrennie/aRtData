@@ -20,5 +20,6 @@ Imports:
 	nrenniepkgdown
 Remotes:  
   nrennie/nrenniepkgdown
+Config/Needs/website: 
+  nrenniepkgdown
 URL: https://nrennie.github.io/aRtData/
-Config/Needs/website: nrenniepkgdown
