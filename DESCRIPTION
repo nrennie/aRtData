@@ -16,8 +16,9 @@ Depends:
     R (>= 3.6)
 Imports:
 	stats,
-	tibble
+	tibble,
+	nrenniepkgdown
 Remotes:  
-    nrennie/nrenniepkgdown
+  nrennie/nrenniepkgdown
 URL: https://nrennie.github.io/aRtData/
 Config/Needs/website: nrenniepkgdown
