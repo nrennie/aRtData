@@ -1,3 +1,7 @@
+<!-- badges: start -->
+  [![R-CMD-check](https://github.com/nrennie/aRtData/workflows/R-CMD-check/badge.svg)](https://github.com/nrennie/aRtData/actions)
+<!-- badges: end -->
+
 # aRtData <img src="man/figures/logo.png" align="right" width="120" />
 
 A R package containing data used in the {aRt} package. Data generating functions are available, and the data included in the package use the default values from the functions in {aRt}.
