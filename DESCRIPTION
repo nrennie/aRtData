@@ -18,4 +18,3 @@ Imports:
 	stats,
 	tibble
 URL: https://nrennie.github.io/aRtData/
-Config/Needs/website: nrenniepkgdown
