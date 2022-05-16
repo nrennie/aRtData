@@ -1,3 +1,4 @@
 url: https://nrennie.github.io/aRtData/
 template:
   package: nrenniepkgdown
+  bootstrap: 5
