@@ -17,7 +17,5 @@ Depends:
 Imports:
 	stats,
 	tibble
-Remotes: 
-  nrennie/nrenniepkgdown
 Config/Needs/website: nrennie/nrenniepkgdown
 URL: https://nrennie.github.io/aRtData/
