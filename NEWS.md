@@ -1,3 +1,10 @@
+## aRtData 0.0.4
+
+* Update linting
+* Add dat-raw files
+* Fix GitHub Actions
+* Add `waves` data
+
 ## aRtData 0.0.3
 
 * Update pkgdown template

@@ -7,3 +7,4 @@ aRtData.png
 ^pkgdown$
 ^\.github$
 ^LICENSE\.md$
+data-raw/

@@ -1,6 +1,6 @@
 Package: aRtData
 Title: Generates data for generative aRt
-Version: 0.0.3
+Version: 0.0.4
 Authors@R: 
     person(given = "Nicola",
            family = "Rennie",
@@ -11,11 +11,10 @@ License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
-RoxygenNote: 7.1.2
+RoxygenNote: 7.2.1
 Depends: 
     R (>= 3.6)
 Imports:
-	stats,
 	tibble
 Config/Needs/website: nrennie/nrenniepkgdown
 URL: https://nrennie.github.io/aRtData/

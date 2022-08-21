@@ -10,3 +10,15 @@
 #' }
 #' @source \url{https://github.com/nrennie/aRtData/tree/main/R/generate_vortex.R}
 "vortex"
+
+#' Waves data set.
+#'
+#' A data set containing random data for the waves art series
+#'
+#' @format A tibble with 15708 rows and 2 variables:
+#' \describe{
+#'   \item{x}{x coordinate}
+#'   \item{y}{y coordinate}
+#' }
+#' @source \url{https://github.com/nrennie/aRtData/tree/main/R/generate_waves.R}
+"waves"
