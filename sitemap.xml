@@ -1,36 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://nrennie.github.io/aRtData/404.html</loc>
-  </url>
-  <url>
-    <loc>https://nrennie.github.io/aRtData/LICENSE-text.html</loc>
-  </url>
-  <url>
-    <loc>https://nrennie.github.io/aRtData/LICENSE.html</loc>
-  </url>
-  <url>
-    <loc>https://nrennie.github.io/aRtData/authors.html</loc>
-  </url>
-  <url>
-    <loc>https://nrennie.github.io/aRtData/index.html</loc>
-  </url>
-  <url>
-    <loc>https://nrennie.github.io/aRtData/news/index.html</loc>
-  </url>
-  <url>
-    <loc>https://nrennie.github.io/aRtData/reference/generate_vortex.html</loc>
-  </url>
-  <url>
-    <loc>https://nrennie.github.io/aRtData/reference/generate_waves.html</loc>
-  </url>
-  <url>
-    <loc>https://nrennie.github.io/aRtData/reference/index.html</loc>
-  </url>
-  <url>
-    <loc>https://nrennie.github.io/aRtData/reference/vortex.html</loc>
-  </url>
-  <url>
-    <loc>https://nrennie.github.io/aRtData/reference/waves.html</loc>
-  </url>
+<urlset xmlns = 'http://www.sitemaps.org/schemas/sitemap/0.9'>
+<url><loc>https://nrennie.github.io/aRtData/404.html</loc></url>
+<url><loc>https://nrennie.github.io/aRtData/LICENSE-text.html</loc></url>
+<url><loc>https://nrennie.github.io/aRtData/LICENSE.html</loc></url>
+<url><loc>https://nrennie.github.io/aRtData/authors.html</loc></url>
+<url><loc>https://nrennie.github.io/aRtData/index.html</loc></url>
+<url><loc>https://nrennie.github.io/aRtData/news/index.html</loc></url>
+<url><loc>https://nrennie.github.io/aRtData/reference/generate_vortex.html</loc></url>
+<url><loc>https://nrennie.github.io/aRtData/reference/generate_waves.html</loc></url>
+<url><loc>https://nrennie.github.io/aRtData/reference/index.html</loc></url>
+<url><loc>https://nrennie.github.io/aRtData/reference/vortex.html</loc></url>
+<url><loc>https://nrennie.github.io/aRtData/reference/waves.html</loc></url>
 </urlset>
+
